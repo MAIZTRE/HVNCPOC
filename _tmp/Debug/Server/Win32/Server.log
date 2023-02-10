@@ -1,0 +1,16 @@
+﻿  Server.cpp
+c:\users\wd\desktop\hvnc-main\server\server.cpp(382): warning C4018: '>': signed/unsigned mismatch
+c:\users\wd\desktop\hvnc-main\server\server.cpp(383): warning C4018: '>': signed/unsigned mismatch
+c:\users\wd\desktop\hvnc-main\server\server.cpp(505): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Main.cpp
+c:\users\wd\desktop\hvnc-main\server\main.cpp(18): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+c:\users\wd\desktop\hvnc-main\server\main.cpp(19): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+c:\users\wd\desktop\hvnc-main\server\main.cpp(20): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+  ControlWindow.cpp
+  Generating Code...
+  Server.vcxproj -> C:\Users\wd\Desktop\HVNC-main\_bin\Debug\Win32\Server.exe
+  Server.vcxproj -> C:\Users\wd\Desktop\HVNC-main\_bin\Debug\Win32\Server.pdb (Full PDB)
